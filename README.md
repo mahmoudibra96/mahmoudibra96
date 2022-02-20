@@ -4,7 +4,7 @@
 ## I am a DevOps at Ingaz-Web.
 
 - 🔭 I’m currently working as a ** DevOps |    at [Ingaz-Web](https://www.ingazweb.com/).
-- 🌱 I’m currently learning    and Developing Mobile Application with AWS.
+- 🌱 I’m currently learning and Developing Application with AWS.
 - 💬 Ask me about: ..., Database, Cloud, Flutter,Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸    
